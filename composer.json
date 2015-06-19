@@ -1,0 +1,12 @@
+{
+    "require": {
+        "silex/silex": "~1.3",
+        "twig/twig": "*",
+        "symfony/twig-bridge": "*",
+        "doctrine/orm": "*",
+        "doctrine/common": "*"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
